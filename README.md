@@ -1,4 +1,9 @@
 # Scrapping a Static and a Dynamic Web Page
+Task 1.py
+Using requests and BeautifulSoup to scrape a static html webpage (using Python)
+
+Task 2.py:
+
 Using requests and BeautifulSoup and XHR inspection to scrape a dynamic html webpage (using Python):
 https://www.zillow.com/homedetails/10111-Parish-Pl-Cupertino-CA-95014/19620225_zpid/
  
