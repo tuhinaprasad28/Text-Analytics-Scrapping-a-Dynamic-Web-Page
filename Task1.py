@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-URL = "http://yuhenghu.com/ids566.html"
+URL = "http:.....#your site goes here......html"
 page = requests.get(URL)
 
 soup = BeautifulSoup(page.content, "html.parser")
