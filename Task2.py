@@ -1,8 +1,3 @@
-__author__ = 'yuhenghu@uic.edu'
-#this is as a reference for IDS 566 Spring 2022 Homework #1 only#
-#do not use it for other purposes#
-
-
 import requests
 import json
 from bs4 import BeautifulSoup
@@ -87,8 +82,6 @@ def get_json_zestimate(zpid):
         return ZestimateScore
 
 
-
-#for ids 566 demo
 
 
 get_json_zestimate(19620225)
