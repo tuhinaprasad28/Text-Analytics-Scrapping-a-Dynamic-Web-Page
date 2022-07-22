@@ -1,5 +1,6 @@
 # Scrapping a Static and a Dynamic Web Page
-Task 1.py
+Task 1.py:
+
 Using requests and BeautifulSoup to scrape a static html webpage (using Python)
 
 Task 2.py:
